@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LifeCycleApp</string>
+    <string name="hello">Hello</string>
+    <string name="github_testing_text">GitHub Testing Text</string>
+    <string name="todo">TODO</string>
+    <string name="page_a">PAGE A</string>
+    <string name="page_b">PAGE B</string>
+    <string name="page_x">PAGE X</string>
+    <string name="page_y">PAGE Y</string>
+    <string name="home">HOME</string>
+</resources>
